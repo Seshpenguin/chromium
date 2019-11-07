@@ -1,4 +1,4 @@
-# ![Logo](chrome/app/theme/chromium/product_logo_64.png) Chromium
+# ![Logo](https://youthhax.cf/images/yh.png) Chromium
 ## Bayview Computer Club Version!
 
 Chromium is an open-source browser project that aims to build a safer, faster,
